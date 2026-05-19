@@ -26,9 +26,14 @@
 ### 지름막 (Jireummak)
 > 사기 전에, 72시간. — 충동구매를 막아주는 앱
 
-- 구매 욕구가 생기면 72시간 타이머 시작
-- 72시간 후에도 사고 싶다면, 그건 진짜 필요한 거
-- Flutter + Firebase + Riverpod 스택
+충동구매가 생기면 72시간 타이머를 시작하세요.  
+72시간 후에도 사고 싶다면, 그건 진짜 필요한 거예요.
+
+<a href="https://play.google.com/store/apps/details?id=com.pause72.jireummak&hl=ko">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png" height="60"/>
+</a>
+
+[![지름막](https://img.shields.io/badge/GitHub-jireummak-7C3AED?style=flat-square&logo=github)](https://github.com/pause72/jireummak)
 
 [![지름막](https://img.shields.io/badge/GitHub-jireummak-7C3AED?style=flat-square&logo=github)](https://github.com/pause72/jireummak)
 

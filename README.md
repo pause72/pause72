@@ -35,7 +35,6 @@
 
 [![지름막](https://img.shields.io/badge/GitHub-jireummak-7C3AED?style=flat-square&logo=github)](https://github.com/pause72/jireummak)
 
-[![지름막](https://img.shields.io/badge/GitHub-jireummak-7C3AED?style=flat-square&logo=github)](https://github.com/pause72/jireummak)
 
 ---
 

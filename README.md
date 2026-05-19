@@ -34,9 +34,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pause72&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pause72&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pause72.pause72)
